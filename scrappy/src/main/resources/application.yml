@@ -1,0 +1,15 @@
+
+spring:
+  redis:
+    host: aaa
+    port: 6371
+    database: 0
+
+#  profiles:
+#    active: port
+server:
+  port: 9999
+
+my-profile:
+  name: aaa
+  email: koushuangbwcx@bb.cc
